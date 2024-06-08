@@ -1,0 +1,17 @@
+.navitem a{
+    text-decoration:none;
+    color:black;
+    padding:0 30px;
+    
+}
+ul li a.active{
+ font-weigth:900;
+ background:black;
+ color:white;
+ border:1px solid black;
+ padding:0 30px;
+ font-size:20px;
+ border-radius:12px
+ 
+    
+}
