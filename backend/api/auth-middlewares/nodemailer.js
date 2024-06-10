@@ -12,7 +12,7 @@ const transporter = nodemailer.createTransport({
   secure: true, // true for 465, false for other ports
   auth: {
     user: 'test@creativerays.com', // Replace with your email address
-    pass: 'M@rs!n333' // Replace with your email password
+    pass: '' // Replace with your email password
   }
 });
 
